@@ -16,8 +16,8 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Introduction to Software Development](https://dev.to/juanregistry/introduction-to-software-development-2imi)
-- [Introduction to Software Development](https://medium.com/@juanregistry/introduction-to-software-development-9d3e4a0f0b14?source=rss-5991928385a0------2)
-- [Thank you Blazor: Fast prototyping](https://medium.com/@juanregistry/thank-you-blazor-fast-prototyping-8c52dc117b68?source=rss-5991928385a0------2)
+- [Introduction to Software Development](https://juanregistry.medium.com/introduction-to-software-development-9d3e4a0f0b14?source=rss-5991928385a0------2)
+- [Thank you Blazor: Fast prototyping](https://juanregistry.medium.com/thank-you-blazor-fast-prototyping-8c52dc117b68?source=rss-5991928385a0------2)
 - [How to configure TailwindCSS with Blazor](https://dev.to/juanregistry/how-to-configure-tailwindcss-with-blazor-1lg7)
 <!-- BLOG-POST-LIST:END -->
 
