@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juan Barahona</h1>
+<h1>Hi 👋, I'm Juan Barahona</h1>
 <p>A passionate Software Engineer who likes make things better and better</p>
 
 - ✍ I’m currently contributing to [ASP.NET](https://github.com/dotnet/aspnetcore)
