@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan Barahona</h1>
 <h3 align="center">A passionate Software Engineer who likes make things better and better</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barahonajm&show_icons=true&locale=en" alt="barahonajm" /></p>
-
 - 🌱 I’m currently learning **Performance Stuff, Blazor**
 
 - ✍ I am currently contributing to [ASP.NET](https://github.com/dotnet/aspnetcore)
