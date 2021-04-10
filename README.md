@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Juan Barahona</h1>
 <h3 align="center">A passionate Software Engineer who likes make things better and better</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=barahonajm&label=Profile%20views&color=0e75b6&style=flat" alt="barahonajm" /> </p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barahonajm&show_icons=true&locale=en" alt="barahonajm" /></p>
 
 - 🌱 I’m currently learning **Performance Stuff, Blazor**
+
+- ✍ I am currently contributing to [ASP.NET](https://github.com/dotnet/aspnetcore)
 
 - 🏆 My last win was getting [Azure Develop Accociate](https://www.credly.com/badges/a7199e6b-5848-462d-a8fd-eeade01cab69)
 
