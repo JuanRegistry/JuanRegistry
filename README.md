@@ -3,7 +3,7 @@
 
 - ✍ I’m currently contributing to [ASP.NET](https://github.com/dotnet/aspnetcore)
 
-- 🏆 My last win was getting [Azure Develop Accociate](https://www.credly.com/badges/a7199e6b-5848-462d-a8fd-eeade01cab69)
+- 🏆 My last win was getting [Azure Developer Associate](https://www.credly.com/badges/a7199e6b-5848-462d-a8fd-eeade01cab69)
 
 - 💬 Ask me about **C#, Java, ASP.NET**
 
