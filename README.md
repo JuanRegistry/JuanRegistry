@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Juan Barahona</h1>
 <h3 align="center">A passionate Software Engineer from Bolivia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juanelements&label=Profile%20views&color=0e75b6&style=flat" alt="juanelements" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=barahonajm&label=Profile%20views&color=0e75b6&style=flat" alt="barahonajm" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanelements" alt="juanelements" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barahonajm" alt="barahonajm" /></a> </p>
 
 - 🌱 I’m currently learning **Blazor, Gatsby**
 
-- 📝 I regularly write articles on [https://juanregistry.medium.com/](https://juanregistry.medium.com/)
+- 📝 I regularly write articles on [https://barahonajm.medium.com/](https://barahonajm.medium.com/)
 
 - 💬 Ask me about **C#, Java, ASP.NET**
 
