@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Software Development](https://dev.to/barahonajm/introduction-to-software-development-2imi)
-- [Introduction to Software Development](https://barahonajm.medium.com/introduction-to-software-development-9d3e4a0f0b14?source=rss-5991928385a0------2)
-- [Thank you Blazor: Fast prototyping](https://barahonajm.medium.com/thank-you-blazor-fast-prototyping-8c52dc117b68?source=rss-5991928385a0------2)
-- [How to configure TailwindCSS with Blazor](https://dev.to/barahonajm/how-to-configure-tailwindcss-with-blazor-1lg7)
+- [Introduction to Software Development](https://dev.to/huunab/introduction-to-software-development-2imi)
+- [Introduction to Software Development](https://huunab.medium.com/introduction-to-software-development-9d3e4a0f0b14?source=rss-5991928385a0------2)
+- [Thank you Blazor: Fast prototyping](https://huunab.medium.com/thank-you-blazor-fast-prototyping-8c52dc117b68?source=rss-5991928385a0------2)
+- [How to configure TailwindCSS with Blazor](https://dev.to/huunab/how-to-configure-tailwindcss-with-blazor-1lg7)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
