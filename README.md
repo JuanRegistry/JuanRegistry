@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [bitsize #1: What is an asynchronous operation?](https://dev.to/huunab/bitsize-1-what-is-an-asynchronous-operation-4m4a)
-- [bitsize #1: What is an asynchronous operation?](https://huunab.medium.com/bitsize-1-what-is-an-asynchronous-operation-5c2dc2d8389e?source=rss-5991928385a0------2)
-- [Introduction to Software Development](https://dev.to/huunab/introduction-to-software-development-2imi)
-- [Introduction to Software Development](https://huunab.medium.com/introduction-to-software-development-9d3e4a0f0b14?source=rss-5991928385a0------2)
+- [bitsize #1: What is an asynchronous operation?](https://dev.to/juancient/bitsize-1-what-is-an-asynchronous-operation-4m4a)
+- [bitsize #1: What is an asynchronous operation?](https://juancient.medium.com/bitsize-1-what-is-an-asynchronous-operation-5c2dc2d8389e?source=rss-5991928385a0------2)
+- [Introduction to Software Development](https://dev.to/juancient/introduction-to-software-development-2imi)
+- [Introduction to Software Development](https://juancient.medium.com/introduction-to-software-development-9d3e4a0f0b14?source=rss-5991928385a0------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
